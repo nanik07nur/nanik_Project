@@ -2,10 +2,10 @@
 //#include <WiFi.h>
 #include <SoftwareSerial.h>
 
-#define SSID        "ICT-LAB-2.4G"
-#define PASSWORD    "12345678"
-#define HOST_NAME   "192.168.0.249"
-#define HOST_PORT   9998
+#define SSID        "ICT-LAB-2.4G"  //ssid wifi
+#define PASSWORD    "12345678"      //pasword wifi
+#define HOST_NAME   "192.168.0.249"    //ip server raspberryphi
+#define HOST_PORT   9998  //port server
 
 #define LIGHT A3
 
